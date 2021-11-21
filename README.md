@@ -1,2 +1,12 @@
-# future-shock
+----------------
+| future-shock |
+----------------
+
 doctor nekschot in action
+
+
+# motor neuron
+https://en.wikipedia.org/wiki/Motor_neuron
+
+# amputation
+https://de.wikipedia.org/wiki/Amputation
